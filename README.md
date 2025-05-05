@@ -868,6 +868,7 @@
 
 ## distributed-systems
 
+1. [1backend](https://github.com/1backend/1backend). AI-native microservices platform.
 1. [micro](https://github.com/micro/micro). A cloud-native toolkit
 1. [go-micro](https://github.com/micro/go-micro). A microservice framework
 1. [moleculer](https://github.com/moleculerjs/moleculer). :rocket: Progressive microservices framework for Node.js
